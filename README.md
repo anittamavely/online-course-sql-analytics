@@ -31,7 +31,7 @@ Enrollments
     | course_id
     |
 Courses
-
+```
 
 Relationships:
 - students.student_id → enrollments.student_id
