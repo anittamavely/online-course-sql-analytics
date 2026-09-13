@@ -21,14 +21,15 @@ Custom-created dataset:
 
 ## Database Schema
 -------------------
+```text
 Students
-   |
-   | student_id
-   |
+    |
+    | student_id
+    |
 Enrollments
-   |
-   | course_id
-   |
+    |
+    | course_id
+    |
 Courses
 
 
