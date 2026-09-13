@@ -1,4 +1,4 @@
-# Project Title: Online Course Analysis
+# Project Title: Online Course & Student Performance Analysis
 SQL analysis of an online learning platform's students, courses, and enrollments using MySQL.
 
 ## Project Overview
